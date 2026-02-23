@@ -13,12 +13,14 @@ A Basic Member Management Web Application built using:
 ## 🚀 Features
 
 ### Authentication
+
 - User Registration
 - User Login
 - JWT-based Authentication
 - Protected Routes
 
 ### Member Management
+
 - Add Member
 - View Member List
 - Edit Member
@@ -107,11 +109,11 @@ http://localhost:3000
 
 # 🔐 Environment Variables
 
-| Variable | Description |
-|----------|------------|
-| MONGO_URI | MongoDB Atlas connection string |
-| JWT_SECRET | Secret key for JWT signing |
-| PORT | Backend server port |
+| Variable   | Description                     |
+| ---------- | ------------------------------- |
+| MONGO_URI  | MongoDB Atlas connection string |
+| JWT_SECRET | Secret key for JWT signing      |
+| PORT       | Backend server port             |
 
 ---
 
@@ -131,9 +133,7 @@ DELETE `/api/members/:id`
 
 ---
 
-
 # 👨‍💻 Author
 
 Vaibhav Patil  
 MERN Stack Developer
-"# Member_Management" 
